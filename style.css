@@ -65,15 +65,43 @@ header{
     box-shadow: 1px 1px 3px lightgray;
     margin-left: 20px;
 }
-.clr{
-    color: #FF9C08;
+.bt3{
+    width: 150px;
 }
 .box1{
     padding: 50px 0px;
     text-align: center;
+    border-bottom: 1px solid lightgray;
 }
 .prg1{
     font-size: 20px;
     font-weight: 400;
     color: #6E6E6E;
+}
+.clr{
+    color: #FF9C08;
+}
+.clr1{
+    color: #FF9C08;
+    font-size: 20px;
+    font-weight: 400;
+}
+.txt1{
+    font-size: 42px;
+    font-weight: 700;
+}
+.prg2{
+    font-size: 18px;
+    font-weight: 400;
+    color: #6E6E6E;
+}
+.left{
+    width: 560px;
+}
+.box2{
+    gap: 70px;
+    padding: 100px 0px;
+}
+.right{
+    margin-top: 70px;
 }
