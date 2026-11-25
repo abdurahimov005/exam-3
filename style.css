@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+body{
+    font-family: "DM Sans", sans-serif;
+}
+.disp{
+    display: flex;
+    justify-content: space-between;
+}
+.wid{
+    max-width: 1200px;
+    margin: auto;
+}
+.font{
+    font-family: "Roboto", sans-serif;
+}
+header{
+    padding: 30px 0px;
+}
+.alit{
+    display: flex;
+    align-items: center;
+}
+.pr{
+    font-size: 17px;
+    font-family: 400;
+}
+.btn{
+    width: 120px;
+    padding: 15px;
+    background-color: #FF9C08;
+    border-radius: 10px;
+}
+.non{
+    outline: none;
+    border: none;
+}
+.box{
+    gap: 50px;
+}
