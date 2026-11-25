@@ -39,3 +39,29 @@ header{
 .box{
     gap: 50px;
 }
+.txt{
+    font-size: 60px;
+    font-weight: 700;
+}
+.prg{
+    font-size: 24px;
+    font-weight: 400;
+    color: #6E6E6E;
+}
+.wth{
+    width: 590px;
+}
+.bt1{
+    width: 180px;
+    padding: 20px 20px;
+    background-color: #FF9C08;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 700;
+}
+.bt2{
+    width: 225px;
+    background-color: white;
+    box-shadow: 1px 1px 3px lightgray;
+    margin-left: 20px;
+}
