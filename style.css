@@ -215,3 +215,65 @@ header{
     width: 90px;
     margin-top: 20px;
 }
+.wdt2{
+    width: 340px;
+}
+.box7{
+    background-color: #FF9C08;
+    border-radius: 14px;
+    padding: 48px;
+}
+.xt{
+    width: 280px;
+    margin-top: 0px;
+}
+.tb1{
+    width: 290px;
+    background-color: black;
+    color: white;
+    margin-top: 30px;
+}
+.tb2{
+    background-color: white;
+    color: black;
+    margin-top: 30px;
+}
+.pg1{
+    color: black;
+    text-decoration: underline;
+}
+.bx2{
+    padding: 30px 0px;
+}
+.last{
+    display: flex;
+    gap: 10px;
+}
+.blk{
+    width: 36px;
+    height: 36px;
+    border-radius: 8px;
+    background-color: black;
+}
+.rect{
+    width: 140px;
+    height: 4px;
+    background-color: #FF9C08;
+    border-radius: 2px;
+}
+.bkt{
+    width: 22px;
+    height: 22px;
+    background-color: #FF9C08;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-top: -18px;
+    left: -7px;
+}
+.bxx{
+    border-top: 1px solid lightgray;
+}
+
