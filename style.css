@@ -117,7 +117,7 @@ header{
 }
 .box3{
     padding: 100px 0px;
-    border-bottom: 2px solid gray;
+    border-bottom: 1px solid lightgray;
 }
 .main{
     background: #FFD4A4;
@@ -160,5 +160,35 @@ header{
 .clr2{
     color: #FF9C08;
     font-size: 20px;
+    font-weight: 700;
+}
+.mn{
+    background-color: #FEF9F2;
+}
+.sp1{
+    font-size: 20px;
+    font-weight: 700;
+
+}
+.right1{
+    width: 520px;
+}
+.box5{
+    width: 310px;
+    /* height: 250px; */
+    padding: 70px 30px;
+    box-shadow: 1px 1px 3px gray;
+    background-color: white;
+    border-radius: 14px;
+    margin-top: -235px;
+    position: relative;
+    margin-left: 250px;
+}
+
+.gra{
+    color: #6E6E6E;
+}
+.tx3{
+    font-size: 18px;
     font-weight: 700;
 }
