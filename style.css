@@ -192,3 +192,26 @@ header{
     font-size: 18px;
     font-weight: 700;
 }
+.tac{
+    text-align: center;
+}
+.box6{
+    width: 450px;
+    padding: 50px 40px;
+    /* box-shadow: 1px 1px 1px gray; */
+    border: 1px solid lightgray;
+    border-radius: 14px;
+    background-color: white;
+    position: relative;
+    margin-top: -80px;
+}
+.bt4{
+    background-color: white;
+    color: black;
+    border: 1px solid lightgray;
+    width: 100px;
+}
+.wdt1{
+    width: 90px;
+    margin-top: 20px;
+}
