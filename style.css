@@ -118,3 +118,28 @@ header{
 .box3{
     padding: 100px 0px;
 }
+.main{
+    background: #FFD4A4;
+    background: linear-gradient(180deg, rgba(255, 212, 164, 1) 55%, rgba(255, 255, 255, 1) 0%);
+}
+.tx1{
+    font-size: 20px;
+    font-weight: 400;
+}
+.tx2{
+    width: 750px;
+    text-align: center;
+}
+.just{
+    display: flex;
+    justify-content: center;
+}
+.tb{
+    background-color: black;
+    color: white;
+}
+.txt3{
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 30px;
+}
