@@ -117,6 +117,7 @@ header{
 }
 .box3{
     padding: 100px 0px;
+    border-bottom: 2px solid gray;
 }
 .main{
     background: #FFD4A4;
@@ -142,4 +143,22 @@ header{
     font-size: 24px;
     font-weight: 700;
     margin-top: 30px;
+}
+.main1{
+    padding: 100px 0px;
+}
+.bx{
+    text-align: center;
+    box-shadow: 1px 1px 3px lightgray;
+    width: 320px;
+    padding: 50px 30px;
+    border-radius: 14px;
+}
+.box4{
+    margin-top: 50px;
+}
+.clr2{
+    color: #FF9C08;
+    font-size: 20px;
+    font-weight: 700;
 }
